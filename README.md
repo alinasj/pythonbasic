@@ -5,4 +5,6 @@
 <br />Class 1 - 1_Variables_Functions.ipynb
 <br />Class 2 - 2_Class.ipynb
 <br />Class 3 - 3_Selenium_intro.ipynb
-<br />Class 4 - stand_alone_script.py
+<br />Class 4 - 4_Pythin_Test_Script.py
+<br />Class 5 - 5_Argument_Parser.py
+<br />Class 6 - 6_Requests.ipynb
